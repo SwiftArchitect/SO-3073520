@@ -1,9 +1,12 @@
-# Animate text change in UILabel
+# Animate text change in UILabel (Label Fade Animation)
+
+![preview](https://i.stack.imgur.com/Y8uaD.gif)
 
 ---
 
 ### Stack Overflow Question 3073520
-Xcode project & source code related to [Animate text change in UILabel](http://stackoverflow.com/a/27645516/218152) anwser.
+
+Xcode project & source code related to [Animate text change in UILabel](https://stackoverflow.com/questions/3073520/animate-text-change-in-uilabel/27645516#27645516) answer.
 
 ---
 
@@ -14,6 +17,6 @@ Xcode project & source code related to [Animate text change in UILabel](http://s
 
 **References:**
 
-- SO-3073520 on [Stack Overflow](http://stackoverflow.com/questions/3073520/animate-text-change-in-uilabel)
+- Question [3073520](https://stackoverflow.com/questions/3073520) on Stack Overflow
 - This and other answers posted on [Swift Recipes](http://swiftarchitect.com/recipes/)
 
