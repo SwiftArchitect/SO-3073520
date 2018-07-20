@@ -1,7 +1,7 @@
 //  ViewController.swift
 //  SO-3073520
 //
-//  Copyright © 2017 Xavier Schott
+//  Copyright © 2017, 2018 Xavier Schott
 //
 //  Permission is hereby granted, free of charge, to any person obtaining a copy
 //  of this software and associated documentation files (the "Software"), to deal
